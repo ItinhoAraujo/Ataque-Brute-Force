@@ -54,10 +54,13 @@ Testa logins automaticamente no FTP usando uma lista de usuários (users.txt) e 
 -U → lista de usuários
 -P → lista de senhas
 -M ftp → serviço FTP
--t 6 → 6 conexões paralelas (mais rápido)
+-t 6 → 6 conexões paralelas (mais rápido)  
 
 # Ferramentas 
 [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)  
 [Medusa](https://www.kali.org/tools/medusa/)  
 [Nmap](https://nmap.org/download)  
-[Metasploitable](https://sourceforge.net/projects/metasploitable)
+[Metasploitable](https://sourceforge.net/projects/metasploitable)  
+
+
+  
