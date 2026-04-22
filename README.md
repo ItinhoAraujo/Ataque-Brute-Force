@@ -68,13 +68,11 @@ Testa logins automaticamente no FTP usando uma lista de usuários (users.txt) e 
     <a 
         href="https://github.com/ItinhoAraujo">
         GitHub
-    </a>
-   
+    </a><br>
       <a 
         href="www.linkedin.com/in/ailton-araújo-da-silva-31062b388">
         LinkedIn
-    </a>
-    
+    </a><br>
     <a 
         href="https://www.instagram.com/ailton.araujoo?igsh=Ynkzbm04a3pscGhw">
         Instagram
