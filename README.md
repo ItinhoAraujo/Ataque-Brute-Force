@@ -71,7 +71,7 @@ Testa logins automaticamente no FTP usando uma lista de usuários (users.txt) e 
         GitHub
     </a><br>
       <a 
-        href="www.linkedin.com/in/ailton-araújo-da-silva-31062b388">
+        href="https://www.linkedin.com/feed/">
         LinkedIn
     </a><br>
     <a 
